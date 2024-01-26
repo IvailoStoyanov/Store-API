@@ -1,5 +1,9 @@
-npm i
-npm start
+# Store API
+Store API written in Node.js / Express.js
+
+- clone the repo to your local folder
+- run `npm install` to install all dependencies
+- run `npm start` This will start the local webserver at [localhost:3000](http://localhost:3000)
 
 Feel free to use the parameters in the url to change the filter options.
 
